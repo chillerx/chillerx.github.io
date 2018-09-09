@@ -15,6 +15,6 @@
   <img src="rocket_game.png" width="300"/>
 </a>
 <a href="./rocket.html" style="margin-left: 30px">
-  Try not to get hit by rocks by moving with the arrow keys and shooting with space.
+   <h3>Try not to get hit by rocks by moving with the arrow keys and shooting with space.</h3>
 </a>
 </div>
