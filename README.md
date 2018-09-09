@@ -2,5 +2,5 @@
 <br>
 <br>
 <a href="./cookie.html">
-  <img src="rocket_game.png" width="300"/>
+  <img src="cookie_game.png" width="300"/>
 </a>
