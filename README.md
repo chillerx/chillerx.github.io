@@ -9,3 +9,13 @@
   Click the cookie to get cookies and click the thing on the right side for upgrades.
 </a>
 </div>
+<br>
+<div style="display:flex; align-items: center;">
+<a href="./rocket.html">
+  <img src="rocket_game.png" width="300"/>
+</a>
+<a href="./rocket.html" style="margin-left: 30px">
+  Try not to get hit by rocks by moving with the arrow keys and shooting with space
+</a>
+</div>
+xzzx
