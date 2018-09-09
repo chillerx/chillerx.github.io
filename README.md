@@ -6,7 +6,7 @@
   <img src="cookie_game.png" width="300"/>
 </a>
 <a href="./cookie.html" style="margin-left: 30px">
-  <h3>Click the cookie to get cookies and click the thing on the right side for upgrades.</h3>
+  <h3>Click the cookie to get cookies and click the things on the right side for upgrades.</h3>
 </a>
 </div>
 <br>
