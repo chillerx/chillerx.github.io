@@ -18,4 +18,3 @@
   Try not to get hit by rocks by moving with the arrow keys and shooting with space
 </a>
 </div>
-xzzx
